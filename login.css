@@ -1,0 +1,113 @@
+.Header-Page-1 {
+  position: absolute;
+  top: 40px;
+  left: 90px;
+  width: 1261px;
+  height: 38px;
+  object-fit: contain;
+}
+
+.Logo-Page-1 {
+  position: absolute;
+  top: 224px;
+  left: 306px;
+  width: 165px;
+  height: 152px;
+  object-fit: contain;
+}
+
+.Below-Header-1 {
+  position: absolute;
+  top: 196px;
+  left: 772px;
+  width: 595px;
+  height: 131px;
+  object-fit: contain;
+}
+
+.Subscription {
+  position: absolute;
+  top: 367px;
+  left: 772px;
+  width: 595px;
+  height: 379px;
+  object-fit: contain;
+}
+.form-group1 {
+  position: absolute;
+  top: 442px;
+  left: 118px;
+  object-fit: contain;
+  width: 109px;
+  height: 25px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #373a3c;
+}
+
+.form-control1 {
+  position: absolute;
+  top: 33px;
+  left: 0px;
+  width: 540px;
+  height: 38px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: solid 1px #cccccc;
+}
+.form-text-text-muted{
+  position: absolute;
+  top: 71px;
+  left: 0px;
+  width: 268px;
+  height: 20px;
+  font-family: HelveticaNeue;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.48;
+  letter-spacing: normal;
+  color: #818a91;
+}
+.form-group2 {
+  position: absolute;
+  top: 563px;
+  left: 118px;
+  object-fit: contain;
+  width: 76px;
+  height: 25px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #373a3c;
+}
+.form-control2 {
+  position: absolute;
+  top: 33px;
+  left: 0px;
+  width: 540px;
+  height: 38px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: solid 1px #cccccc;
+}
+.btn-btn-primary
+{
+  position: absolute;
+  top: 674px;
+  left: 118px;
+  width: 540px;
+  height: 38px;
+  border-radius: 4px;
+  background-color: #357eff;
+}

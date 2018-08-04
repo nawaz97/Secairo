@@ -1,0 +1,31 @@
+.t
+{ 
+    width: 595px;
+    height: 131px;
+    border-radius: 8px;
+    background-color: #357eff;
+  }
+.logoweb
+{
+    width: 152px;
+    height: 32px;
+    background-color: #357eff;
+  }
+.titles
+{
+    width: 100px;
+    height: 38px;
+    border-radius: 4px;
+    background-color: #357eff;}
+.toplist
+    { width: 40px;
+    height: 22px;
+    font-family: HelveticaNeue;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;}

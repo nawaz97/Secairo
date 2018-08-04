@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="497" height="226" viewBox="0 0 497 226">
+    <g fill="none" fill-rule="evenodd" transform="translate(0 -3)">
+        <rect width="497" height="179" y="50" fill="#EBF2FF" rx="8"/>
+        <text fill="#357EFF" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="22" font-weight="400">
+            <tspan x="0" y="21">Captured Image</tspan>
+        </text>
+        <path fill="#357EFF" fill-rule="nonzero" d="M204.5 8.25c-2.888 0-5.25 2.362-5.25 5.25 0 2.887 2.362 5.25 5.25 5.25 2.887 0 5.25-2.363 5.25-5.25 0-2.888-2.363-5.25-5.25-5.25zm0-5.25C198.725 3 194 7.725 194 13.5S198.725 24 204.5 24 215 19.275 215 13.5 210.275 3 204.5 3zm0 18.9c-4.62 0-8.4-3.78-8.4-8.4 0-4.62 3.78-8.4 8.4-8.4 4.62 0 8.4 3.78 8.4 8.4 0 4.62-3.78 8.4-8.4 8.4z"/>
+        <text fill="#357EFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="22" font-weight="bold" transform="translate(134 171)">
+            <tspan x=".034" y="21">No Anamoly Detected</tspan>
+        </text>
+    </g>
+</svg>

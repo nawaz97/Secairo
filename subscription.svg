@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="595" height="379" viewBox="0 0 595 379">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="595" height="379" fill="#EBF2FF" rx="8"/>
+        <rect width="146" height="131" x="35" y="129" fill="#357EFF" rx="11"/>
+        <rect width="146" height="131" x="201" y="129" fill="#357EFF" rx="11"/>
+        <rect width="146" height="131" x="367" y="129" fill="#357EFF" rx="11"/>
+        <text fill="#373A3C" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="32" font-weight="bold">
+            <tspan x="46" y="75">Subscription Pricing</tspan>
+        </text>
+        <text fill="#FFF" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="22" font-weight="400">
+            <tspan x="58" y="232">Neo</tspan>
+        </text>
+        <text fill="#357EFF" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="16" font-weight="400">
+            <tspan x="37" y="303">1 Camera</tspan>
+        </text>
+        <text fill="#357EFF" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="16" font-weight="400">
+            <tspan x="201" y="303">10 Cameras</tspan>
+        </text>
+        <text fill="#357EFF" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="16" font-weight="400">
+            <tspan x="367" y="303">100 Cameras</tspan>
+        </text>
+        <text fill="#357EFF" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="16" font-weight="400">
+            <tspan x="37" y="332">$ 0.05 Per Image</tspan>
+        </text>
+        <text fill="#357EFF" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="16" font-weight="400">
+            <tspan x="201" y="332">$ 0.008 Per Image</tspan>
+        </text>
+        <text fill="#357EFF" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="16" font-weight="400">
+            <tspan x="367" y="332">$ 0.004 Per Image</tspan>
+        </text>
+        <text fill="#FFF" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="22" font-weight="400">
+            <tspan x="224" y="232">Standard</tspan>
+        </text>
+        <text fill="#FFF" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="22" font-weight="400">
+            <tspan x="390" y="232">Enterprise</tspan>
+        </text>
+        <text fill="#FFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold">
+            <tspan x="58" y="186">Free</tspan>
+        </text>
+        <text fill="#FFF" font-family="HelveticaNeue, Helvetica Neue" font-size="30">
+            <tspan x="224" y="186">$</tspan> <tspan x="240.68" y="186" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold"> 99</tspan>
+        </text>
+        <text fill="#FFF" font-family="HelveticaNeue, Helvetica Neue" font-size="30">
+            <tspan x="390" y="186">$</tspan> <tspan x="406.68" y="186" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold"> 199</tspan>
+        </text>
+    </g>
+</svg>
